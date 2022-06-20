@@ -19,7 +19,7 @@
   <h3 align="center">Digital Clock By OneEyeX</h3>
 
   <p align="center">
-    a digital clock using HTML, CSS and JavaScript
+    A digital clock using HTML, CSS and JavaScript.
     <br />
     <!-- <a href="#"><strong>Explore the docs »</strong></a> -->
     <br />
@@ -64,7 +64,7 @@
 
 [![Clock By OneEyeX Screen Shot][product-screenshot]](clock.jpg)
 
-a clock (normal & digital).
+A digital clock using HTML, CSS and JavaScript.
  
 <p align="right">(<a href="#top">back to top</a>)</p>
 
