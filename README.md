@@ -72,9 +72,9 @@ a clock (normal & digital).
 
 ### Built With
  
-* [HTML](https://html.org/)
+* [HTML](https://html.com/)
 * [CSS](https://css.org/)
-* [JS](https://javascript.org/)
+* [JS](https://www.javascript.com/)
  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
