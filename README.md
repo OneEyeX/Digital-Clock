@@ -101,18 +101,9 @@ that's all
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
 <!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+## Issues
  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
- 
-
 See the [open issues](https://github.com/OneEyeX/Digital-Clock/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
